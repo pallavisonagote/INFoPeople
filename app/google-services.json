@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766312704804",
+    "firebase_url": "https://interndemopro.firebaseio.com",
+    "project_id": "interndemopro",
+    "storage_bucket": "interndemopro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766312704804:android:3ad0450637357e5a",
+        "android_client_info": {
+          "package_name": "com.example.infopeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766312704804-81q7isfg3unfkackibms3fdrt57aisqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infopeople",
+            "certificate_hash": "eb2405477f7047e9f73a71407d06869d15b12749"
+          }
+        },
+        {
+          "client_id": "766312704804-dqmkiaf4pbho3qcfhm3862km2uh2772j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3TqZLOoRo5GmGDHHs3LDA8z0uHerGgXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766312704804-dqmkiaf4pbho3qcfhm3862km2uh2772j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
